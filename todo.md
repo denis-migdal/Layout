@@ -1,5 +1,5 @@
 TODO:
-- grid auto
+- grid auto (fixed vs dynamic grid ? -> setSize() )
     - listen children
     - compute grid size
     - add padding...

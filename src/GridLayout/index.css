@@ -17,5 +17,4 @@
 ::slotted(*) {
     /* avoid: dangerous */
 	grid-area: span var(--height, 1) / span var(--width, 1);
-    background-color: blue;
 }
