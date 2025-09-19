@@ -1,0 +1,13 @@
+TODO:
+- grid auto
+    - listen children
+    - compute grid size
+    - add padding...
+- import/export
+    - fromJSON()
+    - toJSON()
+    - clone()
+- interactive
+    - WithUpdate()
+    - resize obs
+    - Edit (drag&drop, remove, span, overlay)
