@@ -1,5 +1,5 @@
-import buildStyles from "../../libs/misc/src/customElements/buildStyles";
-import   addStyles from "../../libs/misc/src/customElements/addStyles";
+import buildStyles from "@misc/customElements/buildStyles";
+import   addStyles from "@misc/customElements/addStyles";
 
 const css = require("!!raw-loader!./index.css").default;
 
